@@ -1,0 +1,8 @@
+com\ows\uploadfiles\service\impl\FileSystemStorageServiceImpl.class
+com\ows\uploadfiles\service\IStorageService.class
+com\ows\uploadfiles\exception\StorageException.class
+com\ows\uploadfiles\exception\StorageFileNotFoundException.class
+com\ows\Application.class
+META-INF\spring-configuration-metadata.json
+com\ows\uploadfiles\properties\StorageProperties.class
+com\ows\uploadfiles\controller\FileUploadController.class

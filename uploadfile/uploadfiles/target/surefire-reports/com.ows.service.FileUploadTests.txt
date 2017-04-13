@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ows.service.FileUploadTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.212 sec - in com.ows.service.FileUploadTests

@@ -1,0 +1,11 @@
+com\ows\uploadfileim\web\controller\SecurityController.class
+com\ows\uploadfileim\web\security\FileMetaSecurity.class
+com\ows\uploadfileim\repository\FileMetaRepository.class
+com\ows\uploadfileim\domain\FileMeta.class
+com\ows\uploadfileim\web\controller\PhotoController.class
+com\ows\uploadfileim\configuration\Configuration.class
+com\ows\uploadfileim\web\controller\BaseController.class
+com\ows\uploadfileim\web\controller\FileMetaController.class
+com\ows\uploadfileim\web\FileMetaHealth.class
+com\ows\uploadfileim\service\FileMetaService.class
+com\ows\uploadfileim\Application.class
